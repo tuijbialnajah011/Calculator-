@@ -1,0 +1,6 @@
+{
+  "name": "Calculator Pro",
+  "description": "Advanced calculator with scientific functions, unit conversions, and a detailed history log.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
